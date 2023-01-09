@@ -1,9 +1,7 @@
-import { useState } from "react";
 import {
   Address,
   ButtonWrapper,
   Contents,
-  Error,
   ImageWrapper,
   InputWrapper,
   Label,
